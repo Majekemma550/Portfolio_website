@@ -1,0 +1,20 @@
+/* .General-container{
+    display: flex;
+    color: hsla(148, 75%, 47%, 0.518);
+    background-color: blue;
+    color: aqua;
+} */
+
+.border{
+    /* border: 3px solid blue; */
+    /* border-radius: 35px; */
+    border-top: 7px solid;
+    border-right: 7px dashed;
+    border-width: 30px;
+}
+h2{
+    border: 4px dashed red;
+}
+p{
+    border: 5px dotted seagreen;
+}
